@@ -18,6 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Flutter-app-Name-suggest
 >>>>>>> e3765edc7b6815caecba9dc5a538475db296286c
-Resource: [Flutter Namer App Tutorial](https://goo.gle/3J0i2ie)
+#Resource:
+ [Flutter Namer App Tutorial](https://goo.gle/3J0i2ie)
 
 
